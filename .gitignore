@@ -1,6 +1,4 @@
-*
-!.gitignore
-!static_as.s
-!Makefile
-!statoc_nasm.asm
+*.o
+*nasm
+*s
 
