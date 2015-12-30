@@ -1,4 +1,4 @@
-/*
+*
 !.gitignore
-!static_as
-!static_nasm/
+!*.*
+
